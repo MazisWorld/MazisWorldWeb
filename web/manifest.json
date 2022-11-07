@@ -1,11 +1,11 @@
 {
-    "name": "mazisworld",
-    "short_name": "mazisworld",
+    "name": "Mazi's world",
+    "short_name": "Mazi's World",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mazi's World Online",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
